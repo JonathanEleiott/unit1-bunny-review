@@ -44,4 +44,7 @@ section {
   grid-template-rows: 200px 200px;
 }
 
-
+form {
+  display: flex;
+  flex-direction: column;
+}
